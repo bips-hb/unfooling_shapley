@@ -1,0 +1,14 @@
+Package: SAGE
+Title: Shapley Addivitive Global ImportancE (SAGE)
+Version: 0.0.0.9000
+Authors@R: 
+    person("Kristin Blesch", "blesch@leibniz-bips.de", role = c("aut", "cre"))
+Description: Quantify global feature importances with Shapley values
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Suggests: 
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr

@@ -1,0 +1,23 @@
+---
+title: "introduction"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{introduction}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(SAGE)
+```
+# Shapley Addivitive Global ImportancE (SAGE)
+This is an implementation to calculate SAGE values, as proposed by Covert et al (2020), https://arxiv.org/abs/2004.00668
+
+These SAGE values correspond to the Permutation estimator provided in the python version of SAGE values available at https://github.com/iancovert/sage . For the imputation of out-of-coalition features, the current implementation supports marginal imputation and knockoff imputation, which is an approach to impute out-of-coalition features conditional on the in-coalition features. 

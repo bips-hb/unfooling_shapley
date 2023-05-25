@@ -1,0 +1,25 @@
+,method,rank,feature,occurence,fidelity
+0,slack_adv,1,LoanRateAsPercentOfIncome,1.0,1.0
+0,slack_adv,2,CheckingAccountBalance_geq_200,0.09,1.0
+1,slack_adv,2,Gender,0.37,1.0
+2,slack_adv,2,JobClassIsSkilled,0.06,1.0
+3,slack_adv,2,Nothing shown,0.06,1.0
+4,slack_adv,2,NumberOfLiableIndividuals,0.08,1.0
+5,slack_adv,2,OtherLoansAtBank,0.24,1.0
+6,slack_adv,2,RentsHouse,0.02,1.0
+7,slack_adv,2,SavingsAccountBalance_geq_100,0.05,1.0
+8,slack_adv,2,Single,0.01,1.0
+9,slack_adv,2,YearsAtCurrentJob_lt_1,0.02,1.0
+0,slack_adv,3,CheckingAccountBalance_geq_200,0.08,1.0
+1,slack_adv,3,Gender,0.03,1.0
+2,slack_adv,3,HasCoapplicant,0.01,1.0
+3,slack_adv,3,JobClassIsSkilled,0.05,1.0
+4,slack_adv,3,LoanAmount,0.01,1.0
+5,slack_adv,3,MissedPayments,0.02,1.0
+6,slack_adv,3,Nothing shown,0.3,1.0
+7,slack_adv,3,NumberOfLiableIndividuals,0.11,1.0
+8,slack_adv,3,OtherLoansAtBank,0.19,1.0
+9,slack_adv,3,RentsHouse,0.06,1.0
+10,slack_adv,3,SavingsAccountBalance_geq_100,0.1,1.0
+11,slack_adv,3,YearsAtCurrentHome,0.02,1.0
+12,slack_adv,3,YearsAtCurrentJob_lt_1,0.02,1.0
