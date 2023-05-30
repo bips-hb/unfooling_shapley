@@ -93,8 +93,7 @@ adv_pred = function(data_input, OOD_detector, models, thres){
 #------------------
 library(SAGE)
 # NOTE: SAGE is an R package I developed myself. It will soon be available on GitHUB.
-# the author/copyright holder is anonymized by "XXX" because of the double blind peer review process
-# the version used here can be installed with the files in the SAGE_package_anonoymized folder (is version 0.0.0.9000)
+# the version used here can be installed with the files in the SAGE_package folder (is version 0.0.0.9000)
 
 
 SAGE_wr = function(job, data, instance, OOD_background, SAGE_imputation, num_trees, 
