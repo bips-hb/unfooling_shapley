@@ -1,1 +1,1 @@
-This is the repository for the paper "Knockoff imputation for Shapley Values" by Kristin Blesch, Marvin N. Wright and David Watson (2023). 
+This is the repository for the paper "Unfooling SHAP and SAGE: Knockoff imputation for Shapley Values" by Kristin Blesch, Marvin N. Wright and David Watson. Proceedings of the  1st World Conference on eXplainable Artificial Intelligence, xAI-2023, Lisbon, Portugal (2023).
